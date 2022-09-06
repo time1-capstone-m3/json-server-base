@@ -1,101 +1,70 @@
 {
-  "users": [
-    {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
-      "id": 1
-    },
-    {
-      "email": "joseteste4@gmail.com",
-      "password": "$2a$10$OSn/qSHQ0tKe3C1cjhp8iuAqUB5FmESDy/iafJWOvbWowsaiQz9DS",
-      "nome": "jose",
-      "id": 2
-    },
-    {
-      "email": "joseteste1@gmail.com",
-      "password": "$2a$10$FfJ4cGmGr6EAC9DOJcrMIeHx8gWVo8aA/8YjX4jd87AKjr3NbWExu",
-      "nome": "jose",
-      "state": "Porto Velho",
-      "id": 3
-    },
-    {
-      "email": "joseteste5@gmail.com",
-      "password": "$2a$10$D2LLDg1Xp2QJdqSy796ZOu1P/lmsl1Lm8nWl21FTfYcrSVpbz1TfW",
-      "nome": "jose",
-      "state": "Porto Velho",
-      "id": 4
-    }
-  ],
-  "products": [
-    {
-      "name": "Relógio",
-      "pic": "https://images.kabum.com.br/produtos/fotos/268333/apple-watch-serie-3-42mm-gps-cinza-espacial-mtf32ll-a_1636726676_m.jpg",
-      "state": "Manaus",
-      "condition": "Usado",
-      "isDonated": "false",
-      "id": 1,
-      "userId": "2"
-    },
-    {
-      "name": "Caixa de som",
-      "image": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/271041/Jbl-Party-Box-110-Caixa-De-Som-Port-til-Bass-Boost-Bluetooth-Led-Bateria-12-Horas_1660910930_m.jpg",
-      "state": "Manaus",
-      "condition": "Usado",
-      "isDonated": "false",
-      "id": 2,
-      "userId": "2"
-    },
-    {
-      "name": "Video game",
-      "image": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/271041/Jbl-Party-Box-110-Caixa-De-Som-Port-til-Bass-Boost-Bluetooth-Led-Bateria-12-Horas_1660910930_m.jpg",
-      "state": "São Paulo",
-      "condition": "Usado",
-      "isDonated": "false",
-      "id": 3
-    },
-    {
-      "name": "Microfone",
-      "image": "https://images.kabum.com.br/produtos/fotos/117767/microfone-gamer-hyperx-quadcast-s-led-usb-preto-e-vermelho-hmiq1s-xx-rg-g_1602169933_m.jpg",
-      "state": "Manaus",
-      "condition": "Usado",
-      "isDonated": "false",
-      "id": 4
-    },
-    {
-      "name": "teste",
-      "userId": "2",
-      "image": "https://images.kabum.com.br/produtos/fotos/117767/microfone-gamer-hyperx-quadcast-s-led-usb-preto-e-vermelho-hmiq1s-xx-rg-g_1602169933_m.jpg",
-      "state": "Manaus",
-      "condition": "Usado",
-      "isDonated": "false",
-      "id": 5
-    },
-    {
-      "name": "teste2",
-      "image": "https://images.kabum.com.br/produtos/fotos/117767/microfone-gamer-hyperx-quadcast-s-led-usb-preto-e-vermelho-hmiq1s-xx-rg-g_1602169933_m.jpg",
-      "state": "Manaus",
-      "condition": "Usado",
-      "isDonated": "false",
-      "id": 6
-    },
-    {
-      "name": "teste3",
-      "image": "https://images.kabum.com.br/produtos/fotos/117767/microfone-gamer-hyperx-quadcast-s-led-usb-preto-e-vermelho-hmiq1s-xx-rg-g_1602169933_m.jpg",
-      "state": "Manaus",
-      "condition": "Usado",
-      "isDonated": "false",
-      "id": 7
-    },
-    {
-      "name": "teste4",
-      "userId": 4,
-      "image": "https://images.kabum.com.br/produtos/fotos/117767/microfone-gamer-hyperx-quadcast-s-led-usb-preto-e-vermelho-hmiq1s-xx-rg-g_1602169933_m.jpg",
-      "state": "Manaus",
-      "condition": "Usado",
-      "isDonated": "false",
-      "id": 8
-    }
-  ]
+    "users": [
+        {
+            "email": "kenzinho@mail.com",
+            "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+            "name": "Kenzinho",
+            "id": 1
+        },
+        {
+            "email": "dev1@gmail.com",
+            "password": "$2a$10$OSn/qSHQ0tKe3C1cjhp8iuAqUB5FmESDy/iafJWOvbWowsaiQz9DS",
+            "nome": "dev 1",
+            "id": 2,
+            "tel": "99-929999999",
+            "imgUrl":  "https://super.abril.com.br/wp-content/uploads/2020/09/04-09_gato_SITE.jpg?quality=90&strip=info&w=1024&resize=1200,800",
+            "state": "Manaus"
+        },
+        {
+            "email": "dev2@gmail.com",
+            "password": "$2a$10$OSn/qSHQ0tKe3C1cjhp8iuAqUB5FmESDy/iafJWOvbWowsaiQz9DS",
+            "nome": "dev 2",
+            "id": 3,
+            "tel": "99-919999999",
+            "imgUrl":  "https://www.petz.com.br/blog/wp-content/uploads/2021/11/enxoval-para-gato-Copia.jpg",
+            "state": "São Paulo"
+        }
+    ],
+    "products": [
+        {
+            "name": "Relógio",
+            "image": "https://images.kabum.com.br/produtos/fotos/268333/apple-watch-serie-3-42mm-gps-cinza-espacial-mtf32ll-a_1636726676_m.jpg",
+            "state": "Manaus",
+            "condition": "Usado",
+            "isDonated": "false",
+            "category": "Acessórios",
+            "userId": 2,
+            "id": 1
+        },
+        {
+            "name": "Caixa de som",
+            "image": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/271041/Jbl-Party-Box-110-Caixa-De-Som-Port-til-Bass-Boost-Bluetooth-Led-Bateria-12-Horas_1660910930_m.jpg",
+            "state": "Manaus",
+            "condition": "Usado",
+            "isDonated": "false",
+            "category": "Computadores",
+            "userId": 2,
+            "id": 2
+        },
+        {
+            "name": "Video game",
+            "image": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/224998/Console-Playstation-5-825gb-Sony-Standart-Edition-Cfi-1000a-8k-Bivolt-Branco_1660911532_gg.jpg",
+            "state": "São Paulo",
+            "condition": "Usado",
+            "isDonated": "false",
+            "category": "Smartphones",
+            "userId": 3,
+            "id": 3
+        },
+        {
+            "name": "Microfone",
+            "image": "https://images.kabum.com.br/produtos/fotos/117767/microfone-gamer-hyperx-quadcast-s-led-usb-preto-e-vermelho-hmiq1s-xx-rg-g_1602169933_m.jpg",
+            "state": "Manaus",
+            "condition": "Usado",
+            "isDonated": "false",
+            "category": "Outros",
+            "userId": 3,
+            "id": 4
+        }
+    ]
 }
