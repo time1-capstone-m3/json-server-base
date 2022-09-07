@@ -9,7 +9,7 @@
         {
             "email": "dev1@gmail.com",
             "password": "$2a$10$OSn/qSHQ0tKe3C1cjhp8iuAqUB5FmESDy/iafJWOvbWowsaiQz9DS",
-            "nome": "dev 1",
+            "name": "dev 1",
             "id": 2,
             "tel": "99-929999999",
             "imgUrl":  "https://super.abril.com.br/wp-content/uploads/2020/09/04-09_gato_SITE.jpg?quality=90&strip=info&w=1024&resize=1200,800",
@@ -18,7 +18,7 @@
         {
             "email": "dev2@gmail.com",
             "password": "$2a$10$OSn/qSHQ0tKe3C1cjhp8iuAqUB5FmESDy/iafJWOvbWowsaiQz9DS",
-            "nome": "dev 2",
+            "name": "dev 2",
             "id": 3,
             "tel": "99-919999999",
             "imgUrl":  "https://www.petz.com.br/blog/wp-content/uploads/2021/11/enxoval-para-gato-Copia.jpg",
