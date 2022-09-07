@@ -33,6 +33,7 @@
             "description": "Monitore sua frequência cardíaca e receba notificações se ela estiver muito alta ou baixa. Calcule seus exercícios, acompanhe e compartilhe suas atividades com os amigos. Atenda ligações, envie e receba mensagens e escute suas músicas favoritas no Apple Music*. Com o Apple Watch Series 3, você faz tudo direto do seu pulso.",
             "isDonated": "false",
             "category": "Acessórios",
+            "isDonatedTo": "",
             "userId": 2,
             "id": 1
         },
@@ -43,6 +44,7 @@
             "description": "A PartyBox 710 à prova de respingos transforma seu próximo evento em uma verdadeira festa, show ou balada. Show de luzes único e colorido sincronizado com o JBL Original Pro Sound. Botões minimalistas e intuitivos no painel superior e o aplicativo PartyBox permitem criar experiências musicais e visuais de alto nível.",
             "isDonated": "false",
             "category": "Outros",
+            "isDonatedTo": "",
             "userId": 2,
             "id": 2
         },
@@ -53,6 +55,7 @@
             "description": "Com câmera frontal de 13MP e bateria de 5000 mAh, o Redmi Note 10S da Xiaomi está pronto para surpreender até os mais exigentes fãs da marca! Tem um ótimo processador Octa-core, processador gráfico Mali-G76 MC4 e 6GB de memória RAM, ideal para os jogos mais pesados!",
             "isDonated": "false",
             "category": "Smartphones",
+            "isDonatedTo": "",
             "userId": 3,
             "id": 3
         },
@@ -63,6 +66,7 @@
             "description": "Notebook Gamer Acer Nitro 5 AN517-52-77KZ, Intel Core I7, 8GB, 512GB SSD, GTX 1650, 17.3, Windows 11 Home.",
             "isDonated": "false",
             "category": "Computadores",
+            "isDonatedTo": "",
             "userId": 3,
             "id": 4
         },
@@ -73,16 +77,18 @@
             "description": "Completa e versátil, a linha de headsets Cloud foi projetada para as necessidades de qualquer nível de jogador. Independente do seu sistema, estilo de jogo e características este headset irá te surpreender. O Cloud Stinger é um modelo licenciado oficialmente pela Xbox, perfeito para jogadores de Xbox One! Conforto, tecnologia e design a sua altura.",
             "isDonated": "false",
             "category": "Acessórios",
+            "isDonatedTo": "",
             "userId": 2,
             "id": 5
         },
         {
             "name": "Smartphone Motorola",
-            "image": "https://images.kabum.com.br/produtos/fotos/111160/monitor-gamer-aoc-hero-w-led-23-8-widescreen-fhd-ips-hdmi-displayport-freesync-144hz-1ms-altura-ajustavel-24g2-bk_1585656860_gg.jpg",
+            "image": "https://images.kabum.com.br/produtos/fotos/magalu/365636/Smartphone-Motorola-Moto-G-5G-Plus-128GB_1656685344_gg.jpg",
             "condition": "Novo",
             "description": "Smartphone Motorola Moto G60S XT2133-1 128GB 6 RAM Android 11 Processador 20 Ghz Octa-Core Câmera Traseira 64MP+8MP+5 MP+2MP Câmera Verde. O novo moto G60s tem o carregador TurboPower, mais potente de todos os tempos. 12 horas de bateria em 12 minutos. A velocidade não para por aí. Uma tela incrivelmente fluida.",
             "isDonated": "false",
             "category": "Smartphones",
+            "isDonatedTo": "",
             "userId": 2,
             "id": 6
         },
@@ -92,6 +98,7 @@
             "condition": "Novo",
             "isDonated": "false",
             "category": "Computadores",
+            "isDonatedTo": "",
             "userId": 2,
             "id": 7
         },
@@ -102,6 +109,7 @@
             "description": "Mesa Digitalizadora Huion Kamvas 13.",
             "isDonated": "false",
             "category": "Outros",
+            "isDonatedTo": "",
             "userId": 2,
             "id": 8
         }
